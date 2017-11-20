@@ -1,4 +1,4 @@
-# FaucetHub-Script
+# FaucetHub-Script 2018
 FaucetScript is a brand new faucet script made with simplicity and security in mind. Your user will claim and collect their satoshis on a site balance. They then can withdraw their balance, if they have at least the withdraw threshold (if set). 
 
 
@@ -22,4 +22,4 @@ FaucetScript is a brand new faucet script made with simplicity and security in m
 
 # Fee
 
-To support my work, at each claim a small fee of up to 5 satoshi will be sent to me. If you really require this fee to be removed, contact us to get a quote on a paid version.
+To support my work, at each claim a small fee of up to 5 satoshi will be sent to me. If you really require this fee to be removed, contact tongere.j@gmail.com to get a quote on a paid version.
