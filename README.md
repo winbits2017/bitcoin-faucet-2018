@@ -19,12 +19,6 @@ FaucetScript is a brand new faucet script made with simplicity and security in m
 6. Now go to http://www.yoursite.nl/index.php?route=admin/home and configure your faucet. Make sure you are logged in before browsing to mentioned page.
 7. You're done. Good luck!
 
-# Demo
-
-This faucet script is used on:
-- http://www.coinfaucet.space
-
-If you want to have your faucet added to this list, contact bitcoinniels at bitcointalk.org
 
 # Fee
 
